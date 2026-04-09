@@ -6,7 +6,7 @@ Maybe fill this out?
 
 * The best operating system is Linux
 * The best text editor is nvim
-* The best kind of phone is _______
+* The best kind of phone is Android
 * The best superhero is mememe
 +
 +add a line here
